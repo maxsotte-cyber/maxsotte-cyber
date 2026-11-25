@@ -28,6 +28,8 @@ Un tableau de bord Looker Studio qui confronte la réforme à ses résultats : v
 
 Un tableau de bord qui analyse les 53 976 offres du catalogue des Carif-Oref : niveaux, domaines Formacode, concentration des diplômes et densité de l’offre par département, rapportée à la population.
 
+➜ [Ouvrir le tableau de bord](https://maxsotte-cyber.github.io/Dashboard-offre-de-formation-alternance-2026/)
+
 ### 🚆 Transports publics
 **[Île-de-France — Transports publics](https://github.com/maxsotte-cyber/IDF_Transports_publics)**
 
