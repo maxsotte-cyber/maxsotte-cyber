@@ -11,6 +11,19 @@ Je m’intéresse particulièrement aux usages de la donnée dans les domaines d
 
 Explorer la répartition territoriale de l’offre de soins et rendre plus visibles les disparités d’accès à la santé grâce aux données ouvertes et à la cartographie.
 
+➜ [Voir les cartes en ligne](https://maxsotte-cyber.github.io/carto-sante-france/) · mises à jour automatiquement deux fois par semaine
+
+### 🎓 Apprentissage & formation
+**[Carte des CFA et de leurs formations](https://github.com/maxsotte-cyber/Cartographie-de-l-apprentissage-en-France)**
+
+Rendre lisible l’offre de formation en apprentissage : 11 510 lieux de formation et 53 681 formations sur une carte interactive, avec recherche par métier, niveau, diplôme ou distance.
+
+**[L’apprentissage en France depuis la réforme de 2018](https://github.com/maxsotte-cyber/dashboard-apprentissage-france)**
+
+Un tableau de bord Looker Studio qui confronte la réforme à ses résultats : volumes, profil des apprentis, ruptures de contrat, insertion et coûts.
+
+➜ [Ouvrir le tableau de bord](https://lookerstudio.google.com/reporting/218906b0-6d4d-4896-9c15-d30ade2ba43b)
+
 ### 🚆 Transports publics
 **[Île-de-France — Transports publics](https://github.com/maxsotte-cyber/IDF_Transports_publics)**
 
@@ -35,7 +48,7 @@ J’interviens sur plusieurs étapes de la chaîne de la donnée :
 - **Analyser** : exploration, contrôles et indicateurs
 - **Restituer** : visualisations, cartographies et interfaces web
 
-**Technologies utilisées :** Python, SQL, API REST, SQLite, Git/GitHub, HTML, CSS et JavaScript.
+**Technologies utilisées :** Python, SQL, API REST, SQLite, Looker Studio, Leaflet, GitHub Actions, Git/GitHub, HTML, CSS et JavaScript.
 
 ## Ce qui m’anime
 
