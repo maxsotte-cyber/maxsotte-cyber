@@ -24,6 +24,10 @@ Un tableau de bord Looker Studio qui confronte la réforme à ses résultats : v
 
 ➜ [Ouvrir le tableau de bord](https://lookerstudio.google.com/reporting/218906b0-6d4d-4896-9c15-d30ade2ba43b)
 
+**[L’offre de formation en apprentissage en France (2026)](https://github.com/maxsotte-cyber/Dashboard-offre-de-formation-alternance-2026)**
+
+Un tableau de bord qui analyse les 53 976 offres du catalogue des Carif-Oref : niveaux, domaines Formacode, concentration des diplômes et densité de l’offre par département, rapportée à la population.
+
 ### 🚆 Transports publics
 **[Île-de-France — Transports publics](https://github.com/maxsotte-cyber/IDF_Transports_publics)**
 
@@ -48,7 +52,7 @@ J’interviens sur plusieurs étapes de la chaîne de la donnée :
 - **Analyser** : exploration, contrôles et indicateurs
 - **Restituer** : visualisations, cartographies et interfaces web
 
-**Technologies utilisées :** Python, SQL, API REST, SQLite, Looker Studio, Leaflet, GitHub Actions, Git/GitHub, HTML, CSS et JavaScript.
+**Technologies utilisées :** Python, SQL, API REST, SQLite, Looker Studio, Leaflet, D3.js, GitHub Actions, Git/GitHub, HTML, CSS et JavaScript.
 
 ## Ce qui m’anime
 
