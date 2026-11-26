@@ -24,9 +24,10 @@ Un tableau de bord Looker Studio qui confronte la réforme à ses résultats : v
 
 ➜ [Ouvrir le tableau de bord](https://lookerstudio.google.com/reporting/218906b0-6d4d-4896-9c15-d30ade2ba43b)
 
-**[L’offre de formation en apprentissage en France (2026)](https://github.com/maxsotte-cyber/Dashboard-offre-de-formation-alternance-2026)**
+[**[L’offre de formation en apprentissage en France (2026)](https://github.com/maxsotte-cyber/Dashboard-offre-de-formation-alternance-2026)**
 
-Un tableau de bord qui analyse les 53 976 offres du catalogue des Carif-Oref : niveaux, domaines Formacode, concentration des diplômes et densité de l’offre par département, rapportée à la population.
+Un tableau de bord qui analyse les 53 976 offres du catalogue des Carif-Oref : niveaux, domaines Formacode, concentration des diplômes et densité de l’offre par département, rapportée à la population.]
+EN COURS DE CONSTRUCTION
 
 ➜ [Ouvrir le tableau de bord](https://maxsotte-cyber.github.io/Dashboard-offre-de-formation-alternance-2026/)
 
